@@ -1,0 +1,2 @@
+# titanic_survival_exploration
+kaggle titanic_survival_exploration without machine learning
